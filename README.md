@@ -31,8 +31,7 @@ Now, you should have two folders: 1-```V-REP``` and 2-```4280U-Robotics-Course-m
 This step opens/starts the simulation. 
 
 
-1-```for Linux user```
-Open a terminal, navigate to the extracted folder of V-REP and run it: 
+* 1-```for Linux user``` Open a terminal, navigate to the extracted folder of V-REP and run it: 
 
 ```cd ~```
 
@@ -41,7 +40,17 @@ Open a terminal, navigate to the extracted folder of V-REP and run it:
 ```./vrep.sh```
 
 
-2-```for Windows user```
+* 2-```for Windows user``` After downloading the V-REP file, click on the ```.exe``` file to finish installation. Then, double click on the V-REP shortcut that should be on the desktop.
+
+
+You will have the main window of V-REP with empty scene, open new scene from the upper-left-side bar, 
+
+```file--->open scene--->/path/to/4280U-Robotics-Course-master/scene/2UR5-vrep.ttt```
+
+Hit the start button and the simulation should be running...
+
+
+
 
 After downloading the V-REP file, click on the ```.exe``` file to finish installation. Then, double click on the V-REP shortcut that should be on the desktop.
 
