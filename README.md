@@ -52,20 +52,3 @@ Hit the start button and the simulation should be running...
 
 
 
-After downloading the V-REP file, click on the ```.exe``` file to finish installation. Then, double click on the V-REP shortcut that should be on the desktop.
-
-You will have the main window of V-REP with empty scene, open new scene from the upper-left-side bar, 
-
-```file--->open scene--->/path/to/4280U-Robotics-Course-master/scene/2UR5-vrep.ttt```
-
-
-
-Hit the start button and the simulation should be running...
-
-
-
-
-
-
-
-
