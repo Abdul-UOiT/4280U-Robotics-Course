@@ -4,7 +4,7 @@ MANE 4280U-Robotics-Course
 ![alt text](https://github.com/Abdul-UOiT/4280U-Robotics-Course/blob/master/pic6.jpg)
 
 ## Getting Started
-This repository provides the essential documentation and getting-started instructions. The system has been tested with ```V-REP_PRO_EDU_V3_4_0_Linux``` and ```O.S./Linux/Ubuntu 16.04 LTS```/Windows10 64-bit. It should be also running with other O.S, Windows and Mac. If you have question or encounter issue, use the [issues](https://github.com/Abdul-UOiT/4280U-Robotics-Course/issues) section and look for similar issue, if nothing similar start new issue.
+This repository provides the essential documentation and getting-started instructions. The system has been tested with ```V-REP_PRO_EDU_V3_4_0_Linux``` and ```O.S./Linux/Ubuntu 16.04 LTS```, and ```Windows10,64-bit```. It should be also running with other O.S, Windows and Mac. If you have question or encounter issue, use the [issues](https://github.com/Abdul-UOiT/4280U-Robotics-Course/issues) section and look for similar issue, if nothing similar start new issue.
 
 
 
